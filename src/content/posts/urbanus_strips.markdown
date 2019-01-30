@@ -1,6 +1,7 @@
 title: Urbanus Strips
-slug: urbanus_strips
-category: urbanus strips
+slug: Urbanus_Strips
+category: strips
+tags: urbanus, strips
 date: 2019-01-30
 modified: 2019-01-30
 
