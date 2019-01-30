@@ -4,7 +4,7 @@ category: urbanus, strips
 date: 2019-01-30
 modified: 2019-01-30
 
-# Urbanis Strips
+# Urbanus Strips
 
 * 1
 * 2
@@ -42,6 +42,7 @@ modified: 2019-01-30
 * 40
 * 41
 * 42
+* 43
 * 44
 * 45
 * 47
