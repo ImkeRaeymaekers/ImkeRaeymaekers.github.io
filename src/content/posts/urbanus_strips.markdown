@@ -3,7 +3,7 @@ slug: urbanus_strips
 category: strips
 tags: urbanus, strips
 date: 2019-01-30
-modified: 2019-01-30
+modified: 2019-02-10
 
 # Urbanus Strips
 
