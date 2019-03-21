@@ -1,5 +1,7 @@
 venv
 venv/*
+src/tmp
+src/tmp/*
 # pychaces
 **/__pycache__/
 **/*.pyc
