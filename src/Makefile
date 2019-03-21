@@ -41,8 +41,8 @@ help:
 	@echo '                                                                          '
 
 html:
-	mkdir -p $(BASEDIR)/src/tmp
-	cd $(BASEDIR)/src/tmp; wget "https://nl.wikipedia.org/wiki/Lijst_van_albums_van_Urbanus"
+	mkdir -p $(BASEDIR)/tmp
+	cd $(BASEDIR)/tmp; wget "https://nl.wikipedia.org/wiki/Lijst_van_albums_van_Urbanus"
 	$(BASEDIR)/generate.sh
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 

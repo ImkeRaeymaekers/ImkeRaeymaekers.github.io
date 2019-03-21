@@ -8,86 +8,86 @@ modified: 2019-03-21
 # Urbanus Strips
 
 
-*   1 Het fritkotmysterie
-*   3 Het papschoolgenie
-*   4 Urbanus op Uranus
-*   5 Het mislukte mirakel
-*   6 De pretparkprutsers
-*   7 Tegen de dikkenekken
-*   8 De proefkonijnen
-*   9 Het gefoefel met de zak
-*  10 Ambras in de klas
-*  11 De tenor van Tollembeek
-*  12 Urbanus moet trouwen
-*  13 Radio Salami
-*  14 De geboorte van Urbanus
-*  15 Het vlooiencircus
-*  16 De krottenwijkagent
-*  17 De kleine tiran
-*  18 Het lustige kapoentje
-*  19 Dieselman
-*  20 Het kunstmatige weeskindje
-*  21 De sponskesrace
-*  22 De gesloten koffer
-*  23 Urbanellalala
-*  24 Het verslechteringsgesticht
-*  25 De zeven plagen
-*  26 De spellekeszot
-*  27 De Jef Patatten-invasie
-*  28 ...en ge kunt er uw haar mee kammen
-*  29 De slavin van Tollembeek
-*  30 Dertig floppen
-*  31 De zes turven
-*  32 Urbanus maakt reklame
-*  33 Het oeuvre van Hors d'oeuvre
-*  34 De vliegende goudrenet
-*  35 De geforceerde Urbanus
-*  36 Aroffnogneu
-*  37 Dertig varkensstreken
-*  38 Urbanio en Oktaviëtte
-*  39 Leute voor de meute
-*  40 De riolen van Tollembeek
-*  41 De dochter van Urbanus
-*  42 De depressie van Urbanus
-*  43 Tomatenpuree
-*  44 Een knap zwartje is ook niet mis
-*  45 De vettige vampiers
-*  47 De harem van Urbanus
-*  48 De tirannie van Eufrazie
-*  49 Nabuko Donosor loopt voor de voeten
-*  50 De hete Urbanus
-*  51 Vaarwel, Eufrazie!
-*  52 De stiefmoeder van Urbanus
-*  53 Game over!
-*  54 De laatste dagen van Urbanus
-*  55 De geest in de koffiepot
-*  56 Kermis in de hel
-*  57 De billendans
-*  58 Een Eufrazie te veel
-*  59 Het zwarte winkeltje
-*  60 Miserie met oma Tettemie
-*  61 Snoeperdepoep
-*  62 Primo ballerino
-*  63 De ringelingterrorist
-*  64 De gediplomeerde soepkip
-*  73 Humorosaurus Rex
-* 104 Herman en Hermien
-* 111 Urbanus aan de haak
-* 146 Het pinneke van Pinnekeshaar
-* 150 Urbanus verovert de wereld
-* 159 Het poesje Van Pussy
-* 161 De gemolken duiven
-* 162 Het gaat bergaf
-* 163 Retteketettekenetteke
-* 164 De schrikkeljarige
-* 165 De muzikale rits
-* 166 Als hulppietje
-* 167 De razende Matot
-* 172 Miss Slons
-* 173 Amedee stopt ermee
-* 174 Jezuf Van Nazareth
-* 175 Het Patatje van Patat
-* 176 De zweetvoetmannen
-* 177 De levende blokjes
-* 178 De vrolijke paastragedie
-* 181 De vliegende kerktoren
+* __  1__ Het fritkotmysterie
+* __  3__ Het papschoolgenie
+* __  4__ Urbanus op Uranus
+* __  5__ Het mislukte mirakel
+* __  6__ De pretparkprutsers
+* __  7__ Tegen de dikkenekken
+* __  8__ De proefkonijnen
+* __  9__ Het gefoefel met de zak
+* __ 10__ Ambras in de klas
+* __ 11__ De tenor van Tollembeek
+* __ 12__ Urbanus moet trouwen
+* __ 13__ Radio Salami
+* __ 14__ De geboorte van Urbanus
+* __ 15__ Het vlooiencircus
+* __ 16__ De krottenwijkagent
+* __ 17__ De kleine tiran
+* __ 18__ Het lustige kapoentje
+* __ 19__ Dieselman
+* __ 20__ Het kunstmatige weeskindje
+* __ 21__ De sponskesrace
+* __ 22__ De gesloten koffer
+* __ 23__ Urbanellalala
+* __ 24__ Het verslechteringsgesticht
+* __ 25__ De zeven plagen
+* __ 26__ De spellekeszot
+* __ 27__ De Jef Patatten-invasie
+* __ 28__ ...en ge kunt er uw haar mee kammen
+* __ 29__ De slavin van Tollembeek
+* __ 30__ Dertig floppen
+* __ 31__ De zes turven
+* __ 32__ Urbanus maakt reklame
+* __ 33__ Het oeuvre van Hors d'oeuvre
+* __ 34__ De vliegende goudrenet
+* __ 35__ De geforceerde Urbanus
+* __ 36__ Aroffnogneu
+* __ 37__ Dertig varkensstreken
+* __ 38__ Urbanio en Oktaviëtte
+* __ 39__ Leute voor de meute
+* __ 40__ De riolen van Tollembeek
+* __ 41__ De dochter van Urbanus
+* __ 42__ De depressie van Urbanus
+* __ 43__ Tomatenpuree
+* __ 44__ Een knap zwartje is ook niet mis
+* __ 45__ De vettige vampiers
+* __ 47__ De harem van Urbanus
+* __ 48__ De tirannie van Eufrazie
+* __ 49__ Nabuko Donosor loopt voor de voeten
+* __ 50__ De hete Urbanus
+* __ 51__ Vaarwel, Eufrazie!
+* __ 52__ De stiefmoeder van Urbanus
+* __ 53__ Game over!
+* __ 54__ De laatste dagen van Urbanus
+* __ 55__ De geest in de koffiepot
+* __ 56__ Kermis in de hel
+* __ 57__ De billendans
+* __ 58__ Een Eufrazie te veel
+* __ 59__ Het zwarte winkeltje
+* __ 60__ Miserie met oma Tettemie
+* __ 61__ Snoeperdepoep
+* __ 62__ Primo ballerino
+* __ 63__ De ringelingterrorist
+* __ 64__ De gediplomeerde soepkip
+* __ 73__ Humorosaurus Rex
+* __104__ Herman en Hermien
+* __111__ Urbanus aan de haak
+* __146__ Het pinneke van Pinnekeshaar
+* __150__ Urbanus verovert de wereld
+* __159__ Het poesje Van Pussy
+* __161__ De gemolken duiven
+* __162__ Het gaat bergaf
+* __163__ Retteketettekenetteke
+* __164__ De schrikkeljarige
+* __165__ De muzikale rits
+* __166__ Als hulppietje
+* __167__ De razende Matot
+* __172__ Miss Slons
+* __173__ Amedee stopt ermee
+* __174__ Jezuf Van Nazareth
+* __175__ Het Patatje van Patat
+* __176__ De zweetvoetmannen
+* __177__ De levende blokjes
+* __178__ De vrolijke paastragedie
+* __181__ De vliegende kerktoren

@@ -41,5 +41,5 @@ for li in soup.body.ol:
         albums[nr] = li.a.text
         nr+=1
         if nr in heb_ik_al:
-            print("* %3d %s" % (nr, li.a.text))
+            print("* __%3d__ %s" % (nr, li.a.text))
 
