@@ -3,7 +3,7 @@ slug: urbanus_strips
 category: strips
 tags: urbanus, strips
 date: 2019-01-30
-modified: 2019-03-21
+modified: 2019-03-28
 
 # Urbanus Strips
 
@@ -70,6 +70,8 @@ modified: 2019-03-21
 *  62 _Primo ballerino_
 *  63 _De ringelingterrorist_
 *  64 _De gediplomeerde soepkip_
+*  71 _Het aangenaaide oor_
+*  72 _Vers gebakken poetsen_
 *  73 _Humorosaurus Rex_
 * 104 _Herman en Hermien_
 * 111 _Urbanus aan de haak_
@@ -90,4 +92,6 @@ modified: 2019-03-21
 * 176 _De zweetvoetmannen_
 * 177 _De levende blokjes_
 * 178 _De vrolijke paastragedie_
+* 179 _De dikke vamp Amel_
+* 180 _Kermis in de broek van Urbanus_
 * 181 _De vliegende kerktoren_
