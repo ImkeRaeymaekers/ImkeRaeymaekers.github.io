@@ -3,7 +3,7 @@ slug: urbanus_strips
 category: strips
 tags: urbanus, strips
 date: 2019-01-30
-modified: 2019-03-28
+modified: 2019-04-14
 
 # Urbanus Strips
 
@@ -73,6 +73,7 @@ modified: 2019-03-28
 *  71 _Het aangenaaide oor_
 *  72 _Vers gebakken poetsen_
 *  73 _Humorosaurus Rex_
+*  88 _Nul-op-zijn-rapport-man_
 * 104 _Herman en Hermien_
 * 111 _Urbanus aan de haak_
 * 146 _Het pinneke van Pinnekeshaar_
@@ -85,6 +86,7 @@ modified: 2019-03-28
 * 165 _De muzikale rits_
 * 166 _Als hulppietje_
 * 167 _De razende Matot_
+* 170 _Oedipussy_
 * 172 _Miss Slons_
 * 173 _Amedee stopt ermee_
 * 174 _Jezuf Van Nazareth_
