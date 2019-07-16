@@ -3,7 +3,7 @@ slug: urbanus_strips
 category: strips
 tags: urbanus, strips
 date: 2019-01-30
-modified: 2019-04-14
+modified: 2019-07-16
 
 # Urbanus Strips
 
@@ -74,10 +74,18 @@ modified: 2019-04-14
 *  72 _Vers gebakken poetsen_
 *  73 _Humorosaurus Rex_
 *  88 _Nul-op-zijn-rapport-man_
+*  99 _De kwelgeesten_
 * 104 _Herman en Hermien_
 * 111 _Urbanus aan de haak_
+* 126 _Urb en Anus_
+* 131 _Het onbestaande avontuur_
 * 146 _Het pinneke van Pinnekeshaar_
+* 148 _De spiegelkoppen_
 * 150 _Urbanus verovert de wereld_
+* 153 _De liegende leugendetector_
+* 156 _De advocaat van de duivel_
+* 157 _Whoehaha_
+* 158 _De afgedankte stripfiguren_
 * 159 _Het poesje Van Pussy_
 * 161 _De gemolken duiven_
 * 162 _Het gaat bergaf_
@@ -86,7 +94,9 @@ modified: 2019-04-14
 * 165 _De muzikale rits_
 * 166 _Als hulppietje_
 * 167 _De razende Matot_
+* 168 _De asielvinders_
 * 170 _Oedipussy_
+* 171 _De sprekende portretten_
 * 172 _Miss Slons_
 * 173 _Amedee stopt ermee_
 * 174 _Jezuf Van Nazareth_
