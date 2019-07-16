@@ -42,6 +42,7 @@ help:
 
 html:
 	mkdir -p $(BASEDIR)/tmp
+	rm -rf $(BASEDIR)/tmp/*
 	cd $(BASEDIR)/tmp; wget "https://nl.wikipedia.org/wiki/Lijst_van_albums_van_Urbanus"
 	$(BASEDIR)/generate.sh
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)

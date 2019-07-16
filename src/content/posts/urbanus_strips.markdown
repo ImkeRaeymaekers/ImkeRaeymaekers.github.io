@@ -107,3 +107,5 @@ modified: 2019-07-16
 * 179 _De dikke vamp Amel_
 * 180 _Kermis in de broek van Urbanus_
 * 181 _De vliegende kerktoren_
+* 183 _Urbanov Protski_
+* 184 _De fluorescerende schoolreis_
